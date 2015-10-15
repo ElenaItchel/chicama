@@ -1,0 +1,63 @@
+header{
+}
+.fondo{
+	background-image: url("../img/grupal.jpg");
+	background-size: 100%;
+	height: 637px;
+	margin: 0 auto;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 40px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 16px;
+	line-height: 14px;
+	font-family: helvetica;
+}
+nav li{
+	position: relative;
+	float: left;
+}
+nav a{
+	text-decoration: black;
+	padding: 10px 15px;
+}
+h3{
+	background-color: orange;
+	border-color: orange;
+	padding: 10px;
+	margin-top: 25px;
+}
+.logo{
+	width: 160%;
+	padding-top: 10px;
+}
+.foto{
+	width: 300px;
+	display: inline-block;
+	padding:10px;
+}
+.cuerpo{
+	width: 960px;
+	vertical-align: center;
+}
+hr{
+	width: 300px;
+	height: 4px;
+}
+footer { 
+    display: block;
+    background-color: gray;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+}
+.verticalLine{
+	border-right: solid thin white;
+	display: inline-block;
+	padding-right: 4px;
+}
+/*
+	Inserta tu CSS aqui
+*/
